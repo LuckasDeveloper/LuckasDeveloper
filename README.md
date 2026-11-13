@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, Prazer! Sou Lucas!
+# Olá, Prazer! Sou Lucas! 👋
 
 **Desenvolvedor de Sistemas** • Feira de Santana, BA 🇧🇷
 
@@ -11,16 +11,16 @@
 
 ---
 
-## Sobre mim
+## 🧑‍💻 Sobre mim
 
--  Desenvolvedor em constante evolução, apaixonado por tecnologia e resolução de problemas
--  Uso o GitHub como meu laboratório pessoal para criar projetos, testar ideias e acompanhar minha evolução
--  Focado em melhorar minhas habilidades todos os dias
--  Curioso por novas tecnologias e boas práticas
--  Gosto de transformar problemas em soluções eficientes
--  Sempre estudando e explorando novas áreas do desenvolvimento
+- 💻 Desenvolvedor em constante evolução, apaixonado por tecnologia e resolução de problemas
+- 🚀 Uso o GitHub como meu laboratório pessoal para criar projetos, testar ideias e acompanhar minha evolução
+- 🎯 Focado em melhorar minhas habilidades todos os dias
+- 🧠 Curioso por novas tecnologias e boas práticas
+- ⚙️ Gosto de transformar problemas em soluções eficientes
+- 📚 Sempre estudando e explorando novas áreas do desenvolvimento
 
-> Este perfil é Profissional, por isso vai ter poucos repositórios. Se quiser ver mais vá no meu perfil de estudante: https://github.com/LucasdeOliveiraCerqueira
+> Este perfil é profissional, por isso tem poucos repositórios. Se quiser ver mais, visite meu [perfil de estudante](https://github.com/LucasdeOliveiraCerqueira).
 
 ## 🛠️ Tecnologias
 
@@ -47,7 +47,6 @@
 |---|---|---|
 | [Nome do projeto 1](https://github.com/LuckasDeveloper/projeto1) | Uma frase explicando o que ele faz | React, Node.js |
 
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -63,5 +62,5 @@ Vamos conversar! Me chame pelo [LinkedIn](https://www.linkedin.com/in/lucas-de-o
 ---
 
 <div align="center">
-<sub> Se algum projeto meu te ajudou, deixe uma estrela!</sub>
+<sub>⭐ Se algum projeto meu te ajudou, deixe uma estrela!</sub>
 </div>
