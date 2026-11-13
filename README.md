@@ -1,12 +1,11 @@
 <div align="center">
 
-# Olá, Prazer! sou Lucas! 
+# Olá, Prazer! Sou Lucas! 👋
 
-**Desenbolvedor de Sistemas** -- Feira de Santana, BA 🇧🇷
+**Desenvolvedor de Sistemas** • Feira de Santana, BA 🇧🇷
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seusite.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.o.c.dev.2026@gmail.com)
 
 </div>
 
@@ -14,11 +13,14 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🔭 Atualmente trabalhando em **[projeto ou empresa]**
-- 🌱 Estudando **[tecnologia ou assunto]**
-- 🤝 Aberto(a) a colaborar em **[tipo de projeto]**
-- 💬 Pergunte-me sobre **[assuntos que você domina]**
-- ⚡ Curiosidade: **[algo divertido sobre você]**
+- 💻 Desenvolvedor em constante evolução, apaixonado por tecnologia e resolução de problemas
+- 🚀 Uso o GitHub como meu laboratório pessoal para criar projetos, testar ideias e acompanhar minha evolução
+- 🎯 Focado em melhorar minhas habilidades todos os dias
+- 🧠 Curioso por novas tecnologias e boas práticas
+- ⚙️ Gosto de transformar problemas em soluções eficientes
+- 📚 Sempre estudando e explorando novas áreas do desenvolvimento
+
+> Este perfil é só para mostrar minha evolução como estudante ao longo dos anos, então vai ter muita coisa bagunçada.
 
 ## 🛠️ Tecnologias
 
@@ -43,9 +45,9 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Nome do projeto 1](https://github.com/SEU-USUARIO/projeto1) | Uma frase explicando o que ele faz | React, Node.js |
-| [Nome do projeto 2](https://github.com/SEU-USUARIO/projeto2) | Uma frase explicando o que ele faz | Python, Docker |
-| [Nome do projeto 3](https://github.com/SEU-USUARIO/projeto3) | Uma frase explicando o que ele faz | TypeScript |
+| [Nome do projeto 1](https://github.com/LuckasDeveloper/projeto1) | Uma frase explicando o que ele faz | React, Node.js |
+| [Nome do projeto 2](https://github.com/LuckasDeveloper/projeto2) | Uma frase explicando o que ele faz | Python, Docker |
+| [Nome do projeto 3](https://github.com/LuckasDeveloper/projeto3) | Uma frase explicando o que ele faz | TypeScript |
 
 ## 📊 Estatísticas do GitHub
 
@@ -57,7 +59,7 @@
 
 ## 📫 Contato
 
-Vamos conversar! Me chame pelo [LinkedIn](https://linkedin.com/in/SEU-USUARIO) ou por e-mail: **seu@email.com**
+Vamos conversar! Me chame pelo [LinkedIn](https://linkedin.com/in/SEU-USUARIO) ou por e-mail: **lucas.o.c.dev.2026@gmail.com**
 
 ---
 
