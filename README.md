@@ -39,8 +39,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-> Troque, adicione ou remova badges em [shields.io](https://shields.io) ou [simpleicons.org](https://simpleicons.org).
-
 ## 📌 Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
@@ -53,8 +51,7 @@
 
 <div align="center">
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![Sequência de contribuições](https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true)
 
 </div>
 
