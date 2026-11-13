@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou [SEU NOME] 👋
+# Olá, Prazer! sou Lucas! 
 
 **[Seu cargo ou área, ex.: Desenvolvedor(a) Full Stack]** • [Cidade, Estado] 🇧🇷
 
