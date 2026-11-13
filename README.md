@@ -20,7 +20,7 @@
 -  Gosto de transformar problemas em soluções eficientes
 -  Sempre estudando e explorando novas áreas do desenvolvimento
 
-> Este perfil é Profissional, por isso vai ter poucos repositórios. Se quiser ver mais
+> Este perfil é Profissional, por isso vai ter poucos repositórios. Se quiser ver mais vá no meu perfil de estudante: https://github.com/LucasdeOliveiraCerqueira
 
 ## 🛠️ Tecnologias
 
