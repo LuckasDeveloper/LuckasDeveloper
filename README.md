@@ -2,7 +2,7 @@
 
 # Olá, Prazer! sou Lucas! 
 
-**Desenbolvedor de Sistemas** Feira de Santana, BA 🇧🇷
+**Desenbolvedor de Sistemas** -- Feira de Santana, BA 🇧🇷
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-![Sequência de contribuições](https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true)
+![Sequência de contribuições](https://streak-stats.demolab.com/?user=LuckasDeveloper&theme=tokyonight&hide_border=true)
 
 </div>
 
