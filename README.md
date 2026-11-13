@@ -4,7 +4,7 @@
 
 **Desenvolvedor de Sistemas** • Feira de Santana, BA 🇧🇷
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-USUARIO(https://www.linkedin.com/in/lucas-de-oliveira-cerqueira-964122390/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.o.c.dev.2026@gmail.com)
 
 </div>
