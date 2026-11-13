@@ -20,7 +20,7 @@
 -  Gosto de transformar problemas em soluções eficientes
 -  Sempre estudando e explorando novas áreas do desenvolvimento
 
-> Este perfil é só para mostrar minha evolução como estudante ao longo dos anos, então vai ter muita coisa bagunçada.
+> Este perfil é Profissional, por isso vai ter poucos repositórios. Se quiser ver mais
 
 ## 🛠️ Tecnologias
 
